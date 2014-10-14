@@ -10,29 +10,29 @@
 	<string>Dropit</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F346766D-81AD-46FA-A209-393A356E141F</key>
+		<key>BB8D15D0954252734EE21613B4D81E52B4CE1568</key>
 		<string>https://github.com/myqiqiang/Dropit.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Dropit.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F346766D-81AD-46FA-A209-393A356E141F</key>
+		<key>BB8D15D0954252734EE21613B4D81E52B4CE1568</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/myqiqiang/Dropit.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F346766D-81AD-46FA-A209-393A356E141F</string>
+	<string>BB8D15D0954252734EE21613B4D81E52B4CE1568</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F346766D-81AD-46FA-A209-393A356E141F</string>
+			<string>BB8D15D0954252734EE21613B4D81E52B4CE1568</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Dropit</string>
 		</dict>
